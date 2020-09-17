@@ -16,7 +16,7 @@
     "rte"
   ],
   "dependencies": {
-    "jodit": "^3.4.26"
+    "jodit": "git+http://192.168.158.12:9000/teespace/jodit#jodit_develop"
   },
   "peerDependencies": {
     "react": "~0.14 || ^15.0.0 || ^16.0.0",
